@@ -1,9 +1,23 @@
 [
   {
-    "name": "My Cool App",
-    "description": "A productivity tool",
+    "name": "Kleanly",
+    "description": "Clean your Mac like you always wanted to!",
     "image": "https://haider-nawaz.github.io/apps/icons/kleanly.png",
-    "storeLink": "https://apps.apple.com/app/id123456",
-    "plateforms": ["mac", "iOS"]
-  }
+    "storeLink": "https://haidernawaz8.gumroad.com/l/tiyffv",
+    "plateforms": ["mac"]
+  },
+  {
+    "name": "Salah"
+    "description": "Prayer times in your menubar!",
+    "image": "https://haider-nawaz.github.io/apps/icons/Salah.png",
+    "storeLink": "https://haidernawaz8.gumroad.com/l/oeviz",
+    "plateforms": ["mac"]
+  },
+  {
+    "name": "The Pomodoro App"
+    "description": "Achieve Ultra Focus with a No B.S Pomodoro App.",
+    "image": "https://haider-nawaz.github.io/apps/icons/pomodoro.png",
+    "storeLink": "https://play.google.com/store/apps/details?id=com.afadev.pomodoro",
+    "plateforms": ["android"]
+  },
 ]
