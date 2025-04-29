@@ -2,8 +2,9 @@
   {
     "name": "My Cool App",
     "description": "A productivity tool",
-    "image": "https://example.com/cool-app.png",
-    "storeLink": "https://apps.apple.com/app/id123456"
+    "image": "https://github.com/haider-nawaz/apps/blob/main/icons/kleanly.png",
+    "storeLink": "https://apps.apple.com/app/id123456",
+    "plateforms":["mac","iOS"]
   },
   
 ]
