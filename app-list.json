@@ -2,7 +2,7 @@
   {
     "name": "My Cool App",
     "description": "A productivity tool",
-    "image": "https://github.com/haider-nawaz/apps/blob/main/icons/kleanly.png",
+    "image": "https://haider-nawaz.github.io/apps/icons/kleanly.png",
     "storeLink": "https://apps.apple.com/app/id123456",
     "plateforms": ["mac", "iOS"]
   }
