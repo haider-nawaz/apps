@@ -3,21 +3,45 @@
     "name": "Kleanly",
     "description": "Clean your Mac like you always wanted to!",
     "image": "https://haider-nawaz.github.io/apps/icons/kleanly.webp",
-    "storeLink": "https://haidernawaz8.gumroad.com/l/tiyffv",
-    "plateforms": ["macOS"]
+    "platforms": [
+      {
+        "name": "macOS",
+        "link": "https://haidernawaz8.gumroad.com/l/tiyffv"
+      }
+    ]
   },
   {
     "name": "Salah",
     "description": "Prayer times in your menubar!",
     "image": "https://haider-nawaz.github.io/apps/icons/salah.webp",
-    "storeLink": "https://haidernawaz8.gumroad.com/l/oeviz",
-    "plateforms": ["macOS", "iOS", "android", "web"]
+    "platforms": [
+      {
+        "name": "macOS",
+        "link": "https://haidernawaz8.gumroad.com/l/oeviz"
+      },
+      {
+        "name": "iOS",
+        "link": "https://apps.apple.com/app/salah-prayer-times/id123456789"
+      },
+      {
+        "name": "android",
+        "link": "https://play.google.com/store/apps/details?id=com.haidernawaz.salah"
+      },
+      {
+        "name": "web",
+        "link": "https://salah-prayer.haidernawaz.com"
+      }
+    ]
   },
   {
     "name": "The Pomodoro App", 
     "description": "Achieve Ultra Focus with a No B.S Pomodoro App.",
     "image": "https://haider-nawaz.github.io/apps/icons/pomodoro.webp",
-    "storeLink": "https://play.google.com/store/apps/details?id=com.afadev.pomodoro",
-    "plateforms": ["android"]
+    "platforms": [
+      {
+        "name": "android",
+        "link": "https://play.google.com/store/apps/details?id=com.afadev.pomodoro"
+      }
+    ]
   }
 ]
