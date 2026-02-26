@@ -1,7 +1,7 @@
 [
   {
     "name": "Kleanly",
-    "description": "Clean your Mac like you always wanted to!",
+    "description": "Mac cleaning, done right.",
     "image": "https://haider-nawaz.github.io/apps/icons/kleanly.webp",
     "platforms": [
       {
@@ -12,7 +12,7 @@
   },
   {
     "name": "Salah",
-    "description": "Prayer times in your menubar!",
+    "description": "Prayer times in menubar!",
     "image": "https://haider-nawaz.github.io/apps/icons/salah.webp",
     "platforms": [
       {
