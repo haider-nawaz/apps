@@ -5,7 +5,7 @@
     "image": "https://haider-nawaz.github.io/apps/icons/kleanly.webp",
     "platforms": [
       {
-        "name": "macOS",
+        "name": "mac",
         "link": "https://haidernawaz8.gumroad.com/l/tiyffv"
       }
     ]
@@ -16,19 +16,34 @@
     "image": "https://haider-nawaz.github.io/apps/icons/salah.webp",
     "platforms": [
       {
-        "name": "macOS",
+        "name": "mac",
         "link": "https://haidernawaz8.gumroad.com/l/oeviz"
       }
     ]
   },
   {
-    "name": "The Pomodoro App", 
-    "description": "Achieve Ultra Focus with a No B.S Pomodoro App.",
+    "name": "Pomodoro", 
+    "description": "Achieve Ultra Focus.",
     "image": "https://haider-nawaz.github.io/apps/icons/pomodoro.webp",
     "platforms": [
       {
         "name": "android",
         "link": "https://play.google.com/store/apps/details?id=com.afadev.pomodoro"
+      }
+    ]
+  },
+  {
+    "name": "Hold Strong", 
+    "description": "No Nut November with Friends",
+    "image": "https://haider-nawaz.github.io/apps/icons/nnn-android.webp",
+    "platforms": [
+      {
+        "name": "android",
+        "link": "https://play.google.com/store/apps/details?id=com.haiderdev.no_nut_november"
+      },
+      {
+        "name": "iPhone",
+        "link": "https://apps.apple.com/app/hold-strong-no-nut-challenge/id6759236157"
       }
     ]
   }
