@@ -1,7 +1,18 @@
 [
   {
+    "name": "echodesigns",
+    "description": "beautiful play/app store screenshots",
+    "image": "https://haider-nawaz.github.io/apps/icons/echodesigns.webp",
+    "platforms": [
+      {
+        "name": "web",
+        "link": "https://www.echodesigns.space/"
+      }
+    ]
+  },
+  {
     "name": "Kleanly",
-    "description": "Mac cleaning, done right.",
+    "description": "Clean your mac's keyboard",
     "image": "https://haider-nawaz.github.io/apps/icons/kleanly.webp",
     "platforms": [
       {
