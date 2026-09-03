@@ -1,5 +1,16 @@
 [
   {
+    "name": "Simple Health",
+    "description": "Your health, in plain words.",
+    "image": "https://haider-nawaz.github.io/apps/icons/simple-health.webp",
+    "platforms": [
+      {
+        "name": "iPhone",
+        "link": "https://apps.apple.com/app/id6773782403"
+      }
+    ]
+  },
+  {
     "name": "echodesigns",
     "description": "beautiful play/app store screenshots",
     "image": "https://haider-nawaz.github.io/apps/icons/echodesigns.webp",
