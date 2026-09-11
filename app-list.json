@@ -11,13 +11,13 @@
     ]
   },
   {
-    "name": "echodesigns",
+    "name": "appdesigns",
     "description": "beautiful play/app store screenshots",
-    "image": "https://haider-nawaz.github.io/apps/icons/echodesigns.webp",
+    "image": "https://haider-nawaz.github.io/apps/icons/appdesigns.webp",
     "platforms": [
       {
         "name": "web",
-        "link": "https://www.echodesigns.space/"
+        "link": "https://appdesigns.click/"
       }
     ]
   },
